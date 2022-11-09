@@ -2,6 +2,8 @@ Hi, </p>
 After months of gaining knowledge, software skills and practice on smaller projects with courses and workshops,
 now is time for my fully personal project on Data Analysis field. </p>
 
+![smog](/assets/images/smogue.jpg)
+
 <b>INTRODUCTION:</b></p>
 Winter is coming.
 The air quality in my city has always been more then bad. This year we are all affraid it could be worse as the effect of inflation factors such as: expensive gas and other fuels(mosty coal), lower quality of fuel materials, social permission to incinerate garbage in boiler rooms and furnaces.
