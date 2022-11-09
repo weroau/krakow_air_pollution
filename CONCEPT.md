@@ -23,7 +23,7 @@ What is the trend for 2022 in comparison to previous years, what role weather pl
 </i>Bank danych pomiarowych - GIOŚ</i> 
 
 <b>TOOLS:</b>
-BigQuery(SQL), Tableau </p>
+BigQuery(SQL), Tableau, Python?, Rstudio with R?</p>
 
 Although  similar type of professional analysis has already been carried out by scientists from my former university, I am curious to what extent my analysis will cover the conclusions of scientists and what level of initiation can I achieve by working independently on publicly available data. Additionally I have a certain background of natural science knowledge (BEng. Environmental Protection) I would like to prepare convenient, interactive dashboards in Tableau.
 
