@@ -2,7 +2,7 @@ Hi, </p>
 After months of gaining knowledge, software skills and practice on smaller projects with courses and workshops,
 now is time for my fully personal project on Data Analysis field. </p>
 
-![smog](/assets/images/smogue.jpg)
+![smog](https://github.com/weroau/krakow_air_pollution/blob/main/smogue.jpg?raw=true) 
 
 <b>INTRODUCTION:</b></p>
 Winter is coming.
